@@ -1,15 +1,15 @@
 ## Welcome! 👋
-#### I'm Megan Wolf, a Full Stack Software Engineer based in Indianapolis, IN. 
+### I'm Megan Wolf, a Full Stack Software Engineer based in Indianapolis, IN. 
 ---
 
-### Connect With Me 🤝
+## Connect With Me 🤝
 
   [![LinkedIn](https://img.shields.io/badge/meganwolf%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kyelindholm/)](https://www.linkedin.com/in/megan-n-wolf/)
 [![Gmail](https://img.shields.io/badge/meganwolf%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:meganwolf25@gmail.com)](mailto:meganwolf25@gmail.com)
 
 ---
 
-###  Technologies 💻
+##  Technologies 💻
 
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90px" height="25px">
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
   
   ---
-  ### GitHub Stats 📈
+  ## GitHub Stats 📈
   
    <a href="https://github.com/mwolf2531/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwolf2531&show_icons=true&count_private=true&theme=tokyonight" />
