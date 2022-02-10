@@ -2,7 +2,7 @@
 ### I'm Megan Wolf, a Full Stack Software Engineer based in Indianapolis, IN. 
 ---
 
-## Connect With Me 🤝
+## Let's Connect 🤝
 
   [![LinkedIn](https://img.shields.io/badge/meganwolf%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kyelindholm/)](https://www.linkedin.com/in/megan-n-wolf/)
 [![Gmail](https://img.shields.io/badge/meganwolf%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:meganwolf25@gmail.com)](mailto:meganwolf25@gmail.com)
