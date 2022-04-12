@@ -1,5 +1,5 @@
 ## Welcome! 👋
-### I'm Megan Wolf, a Full Stack Software Engineer based in Indianapolis, IN. 
+### I'm Megan Wolf, a Software Engineer based in Indianapolis, IN. 
 ---
 
 ## Let's Connect 🤝
